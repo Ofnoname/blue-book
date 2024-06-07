@@ -1,0 +1,4 @@
+packages:
+  - 'app-mobile'
+  - 'server'
+  - 'web-admin'

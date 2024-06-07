@@ -1,0 +1,39 @@
+/* 整体布局样式 */
+.content {
+    max-width: 1200px; /* 限制表格最大宽度，根据实际需要调整 */
+    margin: 20px auto; /* 上下保留20px空白，左右自动居中，产生空白效果 */
+    padding: 0 10px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #f0f2f5;
+    position: fixed; /* 固定在顶部 */
+    width: 100%; /* 头部宽度填满屏幕 */
+    top: 0;
+    left: 0;
+    z-index: 1000; /* 确保头部在最上层 */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 0 20px;
+}
+
+.header > * {
+    margin: 0 10px; /* 头部内的元素间距 */
+}
+
+/* 调整搜索框高度 */
+.header .ant-input-search {
+    height: 40px;
+    line-height: 40px;
+}
+
+.header .ant-input-search .ant-input, .header .ant-input-search-button {
+    height: 40px;
+}
+
+.main-content {
+    padding-top: 120px;
+}

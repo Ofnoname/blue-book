@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "username": "火焰键盘手",
+      "password": "password1",
+      "role": "normal",
+      "avatar_url": "http://placekitten.com/200/300"
+    },
+    {
+      "username": "寒霜旅游家",
+      "password": "password2",
+      "role": "normal",
+      "avatar_url": "http://placekitten.com/200/301"
+    },
+    {
+      "username": "雷电舰长",
+      "password": "password2",
+      "role": "normal",
+      "avatar_url": "http://placekitten.com/200/301"
+    },
+    {
+      "username": "Reviewer Dingzhen",
+      "password": "password2",
+      "role": "reviewer",
+      "avatar_url": "http://placekitten.com/200/301"
+    },
+    {
+      "username": "Admin",
+      "password": "password3",
+      "role": "admin",
+      "avatar_url": "http://placekitten.com/200/302"
+    }
+  ],
+  "articles": [
+    {
+      "userId": 1,
+      "title": "上海交通大学旅游攻略",
+      "content": "1. 庙门：来交大必打卡的标志性大门 2. 行政楼在行政楼前的草坪上种植着一片郁金香，还有玉兰花，和行政楼的建筑很搭很出片哦 3. 思源湖思源湖畔有很多鸽子，坐在长椅上，望着波光粼粼的湖面，晒晒太阳，很是惬意。4. 李政道图书馆 & 包玉刚图书馆来到一所大学肯定要去大学的图书馆啦，两个图书馆各有特色，环境舒适。5. 电院大草坪草坪上立着I❤SJTU的牌子，可以合影留念, 草坪很大，可在草坪上露营，放风筝 6. 美术馆：小而美的一个美术馆，边上还有一家咖啡店，坐在湖边很是享受。7. 校史馆：有时间的话还是值得去了解了解交大的历史的。",
+      "image_urls": [
+        "http://placekitten.com/200/303",
+        "http://placekitten.com/200/304"
+      ],
+      "location": "上海",
+      "status": "approved"
+    },
+    {
+      "userId": 2,
+      "title": "北京历史文化一日游",
+      "content": "1. 故宫：探访中国古代皇家宫殿的魅力。2. 天安门广场：感受中国的心脏地带，广阔壮观。3. 长城：登长城，不愧是英雄。4. 南锣鼓巷：体验老北京胡同的风情。5. 798艺术区：感受现代艺术与工业遗址的完美结合。",
+      "image_urls": [
+        "http://placekitten.com/200/305",
+        "http://placekitten.com/200/306"
+      ],
+      "location": "北京",
+      "status": "approved"
+    },
+    {
+      "userId": 3,
+      "title": "成都悠闲生活体验之旅",
+      "content": "1. 锦里古街：品尝四川小吃，感受古城文化。2. 武侯祠：纪念三国时期的英雄人物。3. 熊猫基地：近距离观察可爱的大熊猫。4. 春熙路：购物娱乐的好去处。5. 杜甫草堂：感受唐代诗人的文化遗产。",
+      "image_urls": [
+        "http://placekitten.com/200/307",
+        "http://placekitten.com/200/308"
+      ],
+      "location": "成都",
+      "status": "approved"
+    },
+    {
+      "userId": 1,
+      "title": "厦门鼓浪屿音乐之旅",
+      "content": "1. 日光岩：俯瞰整个鼓浪屿美景。2. 皓月园：感受传统园林之美。3. 海底世界：探索海底奥秘。4. 音乐学院：体验音乐之城的文化氛围。5. 风琴博物馆：了解独特的音乐文化。",
+      "image_urls": [
+        "http://placekitten.com/200/309",
+        "http://placekitten.com/200/310"
+      ],
+      "location": "厦门",
+      "status": "approved"
+    },
+    {
+      "userId": 2,
+      "title": "西安古都探秘行",
+      "content": "1. 兵马俑：探索千年古墓的神秘。2. 大雁塔：感受古都的历史厚重。3. 回民街：品尝地道的西安美食。4. 城墙：骑行古城墙，体验不一样的西安。5. 华清池：了解唐代皇家园林的风采。",
+      "image_urls": [
+        "http://placekitten.com/200/311",
+        "http://placekitten.com/200/312"
+      ],
+      "location": "西安",
+      "status": "approved"
+    },
+    {
+      "userId": 3,
+      "title": "杭州西湖浪漫之旅",
+      "content": "1. 西湖：游船观赏西湖十景之美。2. 灵隐寺：感受千年古寺的宁静。3. 龙井村：品味龙井茶的清香。4. 断桥残雪：体验白娘子传说的浪漫。5. 西湖音乐喷泉：夜晚观赏灯光与水的交响。",
+      "image_urls": [
+        "http://placekitten.com/200/313",
+        "http://placekitten.com/200/314"
+      ],
+      "location": "杭州",
+      "status": "approved"
+    },
+    {
+      "userId": 1,
+      "title": "青岛啤酒文化体验游",
+      "content": "1. 青岛啤酒博物馆：了解啤酒的历史和制作过程。2. 栈桥：欣赏海边的美景和品味海鲜。3. 五四广场：感受现代城市的活力。4. 海底世界：探索海底生物的奇妙。5. 信号山：俯瞰青岛老城区的全貌。",
+      "image_urls": [
+        "http://placekitten.com/200/315",
+        "http://placekitten.com/200/316"
+      ],
+      "location": "青岛",
+      "status": "approved"
+    },
+    {
+      "userId": 2,
+      "title": "苏州园林文化之旅",
+      "content": "1. 拙政园：游赏中国古典园林之美。2. 狮子林：体验石林中的迷宫之旅。3. 平江路：漫步古街，感受江南水乡的韵味。4. 苏州博物馆：了解苏州的历史和文化。5. 虎丘：探索古塔的神秘。",
+      "image_urls": [
+        "http://placekitten.com/200/317",
+        "http://placekitten.com/200/318"
+      ],
+      "location": "苏州",
+      "status": "approved"
+    },
+    {
+      "userId": 3,
+      "title": "广州城市新旧探索之旅",
+      "content": "1. 珠江夜游：体验广州的夜生活和城市风光。2. 上下九步行街：感受老广州的市井生活。3. 广州塔：从高处俯瞰整个广州城。4. 陈家祠：了解岭南建筑的特色。5. 红砖厂当代艺术中心：探索当代艺术与传统文化的碰撞。",
+      "image_urls": [
+        "http://placekitten.com/200/319",
+        "http://placekitten.com/200/320"
+      ],
+      "location": "广州",
+      "status": "approved"
+    },
+    {
+      "userId": 1,
+      "title": "重庆山城夜景与美食之旅",
+      "content": "1. 洪崖洞：夜晚观光，体验山城的魅力。2. 解放碑：闲逛商业中心，品尝地道小吃。3. 南山一棵树观景台：俯瞰重庆夜景的最佳位置。4. 长江索道：体验空中的重庆。5. 解放碑：探索重庆的历史文化。",
+      "image_urls": [
+        "http://placekitten.com/200/321",
+        "http://placekitten.com/200/322"
+      ],
+      "location": "重庆",
+      "status": "approved"
+    }
+  ]
+}

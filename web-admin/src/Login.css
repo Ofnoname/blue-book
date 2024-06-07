@@ -1,0 +1,63 @@
+/* LoginPage.css */
+.login-form {
+    max-width: 300px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.login-logo {
+    width: 25%;
+    margin-bottom: 16px;
+}
+
+.login-form-button {
+    width: 100%;
+}
+
+.login-form .ant-form-item {
+    margin-bottom: 16px;
+}
+
+.login-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.login-banner {
+    flex: 2;
+    background-image: url('https://source.unsplash.com/1200x800/?nature,water');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+}
+
+.login-banner:before {
+    content: '旅游，风景和人生';
+    font-size: 24px;
+    color: #fff;
+}
+
+.login-content {
+    flex: 1;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-title {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #444;
+}
+
+.login-form {
+    max-width: 300px;
+    width: 100%;
+}
+
+/* Further styling for input fields, buttons, etc. */
